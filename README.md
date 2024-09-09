@@ -5,7 +5,7 @@
 - <b>Threat Hunting</b>
   - [MCSI - Lab Setup: Threat Hunting with YARA Lab [Video]](https://youtu.be/90ZepaQSpN8?si=0pmXoOFCH0lQDpZm)
 - <b>Open-Source Intelligence[OSINT]</b>
-  - [MCSI - Google Hacking [Video]](https://www.youtube.com/watch?v=YCpshd3167c&list=PLra3o2vYBYLZEDTSn4h7VMij241t1RM-U&index=2)
+  - [MCSI - Google Hacking [Video]](https://youtu.be/YCpshd3167c?si=DH6tdQB28dfXR4WV)
   - [MCSI - Google Cache Retrieve Deleted Web Pages [Video]](https://youtu.be/5PtGuU0dEJ0?si=D-f1VHnU_tQG8BXm)
 - <b>Project Category 3</b>
   - [Project Title](LINK)
