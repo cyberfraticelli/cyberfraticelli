@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Project Category 1</b>
-  - [Project Title](LINK)
+- <b>Threat Hunting</b>
+  - [MCSI - Lab Setup: Threat Hunting with YARA Lab](https://youtu.be/90ZepaQSpN8?si=0pmXoOFCH0lQDpZm)
 - <b>Project Category 2</b>
   - [Project Title](LINK)
 - <b>Project Category 3</b>
