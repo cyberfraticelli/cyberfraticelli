@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1>Hi, I'm wil! <br/><a href="https://www.linkedin.com/in/wilfredo-fraticelli/">Cybersecurity Professional</a>, <a href="https://youtube.com/@cyberfraticelli">YouTuber</a></h1>
 
-<!--
-**cyberfraticelli/cyberfraticelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Project Category 1</b>
+  - [Project Title](LINK)
+- <b>Project Category 2</b>
+  - [Project Title](LINK) <b><i>(Potentially NSFW)</b></i>
+- <b>Project Category 3</b>
+  - [Project Title](LINK)
+  - [Project Title](LINK)
+  - [Project Title](LINK)
+  - [Project Title](LINK)
+- <b>Project Category 4</b>
+  - [Project Title](LINK)
+  - [Project Title](LINK)
+  - [Project Title](LINK)
+- <b>Project Category 5</b>
+  - [Project Title](LINK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Project Title](LINK)
+- [Project Title](LINK)
+- [Project Title](LINK)
+- [Project Title](LINK)
+- [Project Title](LINK)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Cyberfraticelli | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Cyberfraticelli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://youtube.com/@cyberfraticelli
+[linkedin]: https://linkedin.com/in/wilfredo-fraticelli
