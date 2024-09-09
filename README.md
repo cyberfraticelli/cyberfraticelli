@@ -7,8 +7,6 @@
 - <b>Open-Source Intelligence[OSINT]</b>
   - [MCSI - Google Hacking [Video]](https://youtu.be/YCpshd3167c?si=DH6tdQB28dfXR4WV)
   - [MCSI - Google Cache Retrieve Deleted Web Pages [Video]](https://youtu.be/5PtGuU0dEJ0?si=D-f1VHnU_tQG8BXm)
-- <b>Project Category 3</b>
-  - [Project Title](LINK)
 
 <h2> 🤳 Connect with me:</h2>
 
