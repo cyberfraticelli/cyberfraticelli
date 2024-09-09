@@ -1,4 +1,4 @@
-<h1>Hi, I'm wil! <br/><a href="https://www.linkedin.com/in/wilfredo-fraticelli/">Cybersecurity Professional</a>, <a href="https://youtube.com/@cyberfraticelli">YouTuber</a></h1>
+<h1>Hi, I'm wil! <br/><a href="https://www.linkedin.com/in/wilfredo-fraticelli/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -8,12 +8,6 @@
   - [Project Title](LINK)
 - <b>Project Category 3</b>
   - [Project Title](LINK)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Project Title](LINK)
-- [Project Title](LINK)
-- [Project Title](LINK)
 
 <h2> 🤳 Connect with me:</h2>
 
