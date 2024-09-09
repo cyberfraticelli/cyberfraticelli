@@ -4,8 +4,8 @@
 
 - <b>Threat Hunting</b>
   - [MCSI - Lab Setup: Threat Hunting with YARA Lab](https://youtu.be/90ZepaQSpN8?si=0pmXoOFCH0lQDpZm)
-- <b>Project Category 2</b>
-  - [Project Title](LINK)
+- <b>Internet Searching</b>
+  - [MCSI - Google Hacking](https://www.youtube.com/watch?v=YCpshd3167c&list=PLra3o2vYBYLZEDTSn4h7VMij241t1RM-U&index=2)
 - <b>Project Category 3</b>
   - [Project Title](LINK)
 
