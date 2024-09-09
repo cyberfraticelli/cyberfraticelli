@@ -5,23 +5,12 @@
 - <b>Project Category 1</b>
   - [Project Title](LINK)
 - <b>Project Category 2</b>
-  - [Project Title](LINK) <b><i>(Potentially NSFW)</b></i>
+  - [Project Title](LINK)
 - <b>Project Category 3</b>
-  - [Project Title](LINK)
-  - [Project Title](LINK)
-  - [Project Title](LINK)
-  - [Project Title](LINK)
-- <b>Project Category 4</b>
-  - [Project Title](LINK)
-  - [Project Title](LINK)
-  - [Project Title](LINK)
-- <b>Project Category 5</b>
   - [Project Title](LINK)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Project Title](LINK)
-- [Project Title](LINK)
 - [Project Title](LINK)
 - [Project Title](LINK)
 - [Project Title](LINK)
